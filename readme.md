@@ -14,12 +14,12 @@ Using MarketingPlus is simple and straightforward. Simply visit the website and 
 
 ## Contributing
 
-If you're interested in contributing to MarketingPlus, we'd love to hear from you! Whether you have a great idea for an article, a tool you'd like to share, or just want to offer feedback, please get in touch. You can find more information on how to contribute in our [Contributor's Guide](link to contributor's guide).
+If you're interested in contributing to MarketingPlus, we'd love to hear from you! Whether you have a great idea for an article, a tool you'd like to share, or just want to offer feedback, please get in touch. 
 
 ## Contact Us
 
-If you have any questions or comments about MarketingPlus, please feel free to contact us. You can find our contact information on the [Contact Us](link to contact us page) page.
+If you have any questions or comments about MarketingPlus, please feel free to contact us. 
 
 ## License
 
-MarketingPlus is licensed under the [MIT License](link to license).
+MarketingPlus is licensed under the n/a 
